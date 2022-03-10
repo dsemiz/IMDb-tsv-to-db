@@ -1,1 +1,1 @@
-# IMDB-tsv-to-db
+# IMDb-tsv-to-db
