@@ -6,6 +6,4 @@ I made this project because I was practising SQL (after not using it daily for s
 
 Only use this database for non-commercial purposes, refer to IMDb documentation for more information: https://www.imdb.com/interfaces/
 
-
-
 NOTE: The runtime is fairly long due to the size of the downloads, it may take up to 40 minutes on a slow internet connection. 
