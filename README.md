@@ -4,4 +4,8 @@ This project uses BeautifulSoup, Pandas, and Sqlalchemy to scrape, download, and
 
 I made this project because I was practising SQL (after not using it daily for some time) and was disappointed to find it in the wrong file structure/format. Alternative databases for practice (such as Chinook) are fairly small and didn't provide many opportunities for advanced SQL queries.
 
-The runtime is fairly long due to the size of the downloads, it may take up to 40 minutes on a slow internet connection. 
+Only use this database for non-commercial purposes, refer to IMDb documentation for more information: https://www.imdb.com/interfaces/
+
+
+
+NOTE: The runtime is fairly long due to the size of the downloads, it may take up to 40 minutes on a slow internet connection. 
